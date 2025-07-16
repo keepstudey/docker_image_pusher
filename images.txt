@@ -1,1 +1,1 @@
-atmoz/sftp:latest
+jmcombs/sftp:latest
