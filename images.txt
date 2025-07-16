@@ -1,1 +1,1 @@
-arm32v7/debian:rc-buggy-20250630
+atmoz/sftp:latest
