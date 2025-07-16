@@ -1,2 +1,3 @@
 testcontainers/helloworld:1.1.0
 fauria/vsftpd
+atmoz/sftp
