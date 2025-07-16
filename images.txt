@@ -1,1 +1,1 @@
-jmcombs/sftp:latest
+jmcombs/sftp@sha256:65fd5118db65
