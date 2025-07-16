@@ -1,4 +1,1 @@
-testcontainers/helloworld:1.1.0
-fauria/vsftpd
-atmoz/sftp
 arm32v7/debian:rc-buggy-20250630
