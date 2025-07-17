@@ -1,1 +1,1 @@
-jmcombs/sftp@sha256:65fd5118db65
+--platform linux/arm64 jmcombs/sftp:latest
