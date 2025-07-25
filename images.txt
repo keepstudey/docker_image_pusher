@@ -1,1 +1,1 @@
---platform linux/arm64 jmcombs/sftp:latest
+quay.io/submariner/submariner-operator:release-0.20
