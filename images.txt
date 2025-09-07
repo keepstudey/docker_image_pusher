@@ -1,1 +1,1 @@
-jmcombs/sftp:alpine
+--platform linux/arm64 fauria/vsftpd:latest
