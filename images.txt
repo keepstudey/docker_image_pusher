@@ -1,1 +1,1 @@
-emberstack/sftp:build-5.1.72-arm64v8
+quay.io/cephcsi/cephcsi:v3.16.0
