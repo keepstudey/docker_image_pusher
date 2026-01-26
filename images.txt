@@ -1,6 +1,1 @@
-quay.io/minio/csi-provisioner:v6.0.0-0
-quay.io/minio/csi-provisioner:v3.5.0
-quay.io/k8scsi/csi-node-driver-registrar:v1.3.0
-quay.io/trident-mirror/full/csi-snapshotter:v4.2.0
-quay.io/trident-mirror/full/csi-attacher:v3.4.0
-quay.io/trident-mirror/full/csi-resizer:v1.4.0
+dockurr/windows:latest
